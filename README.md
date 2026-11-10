@@ -21,3 +21,8 @@ As EV adoption accelerates, public charging deployment often lags behind registr
 
 ## Tech Stack
 * **Python:** `pandas`, `NumPy`, `Plotly`, `BeautifulSoup4`, `pgeocode`, `requests`
+
+## Visualizations
+![Spatial Charging Map](map1.png)
+![EV Adoption Map](map2.png)
+![Congestion Bar Chart](chart1.png)
